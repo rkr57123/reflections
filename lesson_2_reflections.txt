@@ -12,4 +12,4 @@ How do the diagrams help you visualize the branch structure?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
